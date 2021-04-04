@@ -1,0 +1,1 @@
+<p>When we want to add conditions to fields in djago admin model we should use get_fields method</p>
