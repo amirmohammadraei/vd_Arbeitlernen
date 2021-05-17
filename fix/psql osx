@@ -1,0 +1,4 @@
+rm /Users/<user_name>/Library/Application\ Support/Postgres/var-<version>/postmaster.pid
+
+
+example: rm /Users/amiroo/Library/Application\ Support/Postgres/var-13/postmaster.pid
